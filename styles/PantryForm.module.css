@@ -1,0 +1,12 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.container {
+    background-color: palevioletred;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 16px;
+    margin-top: 16px;
+  }
